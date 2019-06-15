@@ -1,0 +1,24 @@
+{
+  "name": "ascending-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overtureLLC/ascending-js.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ascending front end"
+  ],
+  "author": "ryo hang",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "connect": "*",
+    "serve-static": "*"
+  }
+}
