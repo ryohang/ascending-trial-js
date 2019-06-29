@@ -20,8 +20,5 @@
   "devDependencies": {
     "connect": "*",
     "serve-static": "*"
-  },
-  "scripts": {
-    "start": "node server"
   }
 }
